@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @sakuraszy
-- 👀 I’m interested in Data Science and Lolita Fashion.
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
+- 👀 I’m interested in Data Science.
+- 🌱 I’m a full time software engineer and part time cat sitter.
 - 📫 Reach out to me for any information and access: zhiyans@uci.edu
 
 <!---
